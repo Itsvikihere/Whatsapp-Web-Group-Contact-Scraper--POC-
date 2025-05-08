@@ -1,0 +1,15 @@
+2025-04-26 17:18:21,306 - INFO - Starting Chrome browser...
+2025-04-26 17:18:30,311 - INFO - Please scan the QR code to login.
+2025-04-26 17:19:30,313 - INFO - Waiting for WhatsApp to finish loading messages...
+2025-04-26 17:19:30,354 - INFO - WhatsApp loaded successfully.
+2025-04-26 17:19:35,948 - INFO - Clicked on chat: place
+2025-04-26 17:19:51,570 - INFO - Menu opened.
+2025-04-26 17:19:57,761 - INFO - Dropdown opened.
+2025-04-26 17:20:02,845 - INFO - Scrolled to the bottom of the group info.
+2025-04-26 17:20:08,317 - INFO - Clicked on 'View All' button.
+2025-04-26 17:20:08,389 - INFO - Dynamic Height (px): 13164
+2025-04-26 17:21:08,057 - INFO - Extracted 176 numbers to active_members.txt
+2025-04-26 17:21:08,726 - INFO - Clicked 'View past members' button
+2025-04-26 17:21:11,764 - INFO - Dynamic Height (px) for past members: 4752
+2025-04-26 17:21:30,966 - INFO - Extracted 64 numbers to past_members.txt
+2025-04-26 17:21:34,752 - INFO - Browser closed.
